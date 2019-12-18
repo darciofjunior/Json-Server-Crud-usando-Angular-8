@@ -1,0 +1,64 @@
+{
+  "livros": [
+      {
+          "id": 1,
+          "nome": "Memórias Póstumas de Brás Cubas",
+          "autor": "Machado de Assis",
+          "preco": 4.00
+      },
+      {
+          "id": 2,
+          "nome": "Os Sertões",
+          "autor": "Euclides da Cunha",
+          "preco": 6.00
+      },
+      {
+          "id": 3,
+          "nome": "Triste Fim de Policarpo Quaresma",
+          "autor": "Lima Barreto",
+          "preco": 4.00
+      },
+      {
+          "id": 4,
+          "nome": "Capitães de Areia",
+          "autor": "Jorge Amado",
+          "preco": 4.00
+      },
+      {
+          "id": 5,
+          "nome": "Vidas Secas",
+          "autor": "Graciliano Ramos",
+          "preco": 12.00
+      },
+      {
+          "id": 6,
+          "nome": "A Rosa do Povo",
+          "autor": "Carlos Drummond de Andrade",
+          "preco": 6.39
+      },
+      {
+          "id": 7,
+          "nome": "Romanceiro da Inconfidência",
+          "autor": "Cecília Meireles",
+          "preco": 7.00
+      },
+      {
+          "id": 8,
+          "nome": "Grande Sertão: Veredas",
+          "autor": "João Guimarães Rosa",
+          "preco": 28.00
+      },
+      {
+          "id": 9,
+          "nome": "A Hora da Estrela",
+          "autor": "Clarice Lispector",
+          "preco": 8.00
+      },
+      {
+          "id": 10,
+          "nome": "De Amor Tenho Vivido",
+          "autor": "Hilda Hilst",
+          "preco": 36.93
+      }
+  ]
+}
